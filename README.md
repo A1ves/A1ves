@@ -2,7 +2,7 @@
  <div style="display: inline_block">
   <a href="https://github.com/A1ves">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=A1ves&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ves&layout=compact&langs_count=16&theme=codeSTACKr"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ves&layout=compact&langs_count=16&theme=codeSTACKr"/>
 <div>
 <div style="display: inline_block" ><br>
   <img align="center" alt="Dgley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
